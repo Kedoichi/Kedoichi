@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">Final-year IT student based in Melbourne, specializing in both front-end and back-end development with hands-on experience in Flutter, PostgreSQL, and Firebase. Committed to continuous learning and currently diving into React. Passionate about leveraging technology for social impact and open to collaborative and career opportunities.</h3>
+<h4 align="left">Final-year IT student based in Melbourne, specializing in both front-end and back-end development with hands-on experience in Flutter, PostgreSQL, and Firebase. Committed to continuous learning and currently diving into React. Passionate about leveraging technology for social impact and open to collaborative and career opportunities.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedoichi&label=Profile%20views&color=0e75b6&style=flat" alt="kedoichi" /> </p>
 
