@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tien-quoc-vu-2065a6162/**
+- 📫 How to reach me [Linkdin](https://www.linkedin.com/in/tien-quoc-vu-2065a6162/)
 
-- You can view my resume [https://drive.google.com/file/d/1khxzn75rvGrPlS58I5K2YBbwfDqPoWxA/view?usp=drive_link](https://drive.google.com/file/d/1khxzn75rvGrPlS58I5K2YBbwfDqPoWxA/view?usp=drive_link)
+- You can view my resume [here](https://drive.google.com/file/d/1khxzn75rvGrPlS58I5K2YBbwfDqPoWxA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
